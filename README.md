@@ -280,15 +280,15 @@ Build a fast, animated portfolio to showcase projects and case studies.
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogeshthapa-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&icon_color=0f9d58&text_color=ffffff" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yogeshthapa-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&icon_color=0f9d58&text_color=ffffff" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshthapa-7&theme=tokyonight&hide_border=true&background=1a1a2e&ring=0f9d58&fire=0f9d58&currStreakLabel=ffffff" />
+  <img src="https://streak-stats.demolab.com/?user=yogeshthapa-7&theme=tokyonight&hide_border=true&background=1a1a2e&ring=0f9d58&fire=0f9d58&currStreakLabel=ffffff" />
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshthapa-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yogeshthapa-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&text_color=ffffff" width="48%" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshthapa-7&custom_title=Contribution%20Graph&bg_color=1a1a2e&color=0f9d58&line=0f9d58&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" width="100%"/>
