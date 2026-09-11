@@ -1,278 +1,34 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Thapa&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20MERN%20Specialist&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Thapa&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full-Stack%20%26%20Frontend%20Engineer%20%7C%20AI%20%26%20Automation%20Enthusiast%20%7C%20.NET%20Developer&descSize=14&descAlignY=51" width="100%"/>
 
 </div>
 
-<!-- Gradient Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 🚀 Crafting High-Performance Web Experiences
+### 🚀 Full-Stack & Frontend Engineer | Building Scalable Web Apps, AI Vision Tools & .NET Systems
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
-<br><b>Clean Code</b>
-<br><sub>Maintainable & Scalable</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/>
-<br><b>Performance</b>
-<br><sub>Optimized & Fast</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/browser.png" width="50"/>
-<br><b>UX First</b>
-<br><sub>Accessible & Polished</sub>
-</td>
-</tr>
-</table>
+<a href="mailto:yogsthapa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-yogsthapa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yogesh-thapa">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/yogeshthapa-7">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/yogeshthapa-7">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
-<!-- Gradient Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<!-- About Section with Custom Styling -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="About Me"/> About Me
-
-</div>
-
-```typescript
-const yogesh = {
-    role: "Full-Stack Developer",
-    code: ["TypeScript", "JavaScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            framework: ["Next.js", "React"],
-            styling: ["Tailwind CSS", "Shadcn/UI", "Framer Motion", "AntDesign"],
-            state: ["Redux Toolkit", "Context API"]
-        },
-        backEnd: {
-            runtime: ["Node.js"],
-            database: ["MongoDB", "MySQL"],
-            api: ["RESTful", "GraphQL"]
-        },
-        devOps: ["Docker", "GitHub Actions", "Vercel"],
-        testing: ["Jest", "Playwright", "React Testing Library"]
-    },
-    currentFocus: "Building enterprise-grade e-commerce solutions",
-    funFact: "I debug with console.log and I'm not ashamed 🚀"
-};
-```
-
-<div align="center">
-
-<!-- Status Badges with Custom Styling -->
-<img src="https://img.shields.io/badge/🔭_Currently_Building-E--Commerce_Platform-00ADD8?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🌱_Learning-Event--Driven_Architecture-4CAF50?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/👯_Open_To-Collaborations_&_Opportunities-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
-
-</div>
-
-<!-- Gradient Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Tech Stack Section -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="Tech Stack"/> Tech Stack
-
-<!-- Frontend -->
-<h3>🎨 Frontend</h3>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-<!-- Backend -->
-<h3>⚙️ Backend</h3>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<!-- Tools & DevOps -->
-<h3>🛠️ Tools & DevOps</h3>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-</div>
-
-<!-- Gradient Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Featured Projects Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Projects"/> Featured Projects
-
-</div>
-
-<!-- Project 1: E-Commerce Platform -->
-<details open>
-<summary><b>🛒 E-Commerce Platform</b> — Enterprise-grade storefront with Next.js</summary>
-<br>
-
-<div align="center">
-
-[![E-Commerce Platform](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ecommerce)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-Next.js_|_TypeScript_|_Shadcn/UI-blue?style=for-the-badge)](#)
-
-</div>
-
-**The Challenge:**  
-Building a performant, accessible storefront capable of handling high-traffic product catalogs with seamless UX.
-
-**The Solution:**
-- ⚡ Server-side rendering for blazing-fast page loads
-- 🎨 Responsive product grid with optimized asset delivery
-- ✅ Robust form validation with Formik & Yup
-- ♿ WCAG 2.1 AA accessibility compliance
-
-**Tech:** `Next.js` • `TypeScript` • `Shadcn/UI` • `Tailwind CSS` • `Formik` • `Yup`
-
----
-
-</details>
-
-<!-- Project 2: Redux Mini Projects -->
-<details>
-<summary><b>🧩 Redux Mini Projects</b> — Modern state management patterns</summary>
-<br>
-
-<div align="center">
-
-[![Redux Mini Projects](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/redux-mini-projects)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-Next.js_|_Redux_Toolkit-purple?style=for-the-badge)](#)
-
-</div>
-
-**The Challenge:**  
-Demonstrate modern state management patterns through practical, focused examples.
-
-**The Solution:**
-- 📚 Collection of mini-apps showcasing Redux Toolkit best practices
-- 🎯 Safe counter implementations with type-safe reducers
-- 🔄 Dynamic UI updates with optimized re-renders
-- 📖 Educational code with inline documentation
-
-**Tech:** `Next.js` • `React` • `Redux Toolkit` • `TypeScript`
-
----
-
-</details>
-
-<!-- Project 3: AI Tools Directory -->
-<details>
-<summary><b>🤖 AI Tools Directory</b> — Curated AI tools with advanced filtering</summary>
-<br>
-
-<div align="center">
-
-[![AI Tools Directory](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ai-tools-directory)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-Next.js_|_Framer_Motion-teal?style=for-the-badge)](#)
-
-</div>
-
-**The Challenge:**  
-Create a searchable, visually appealing directory for discovering AI tools.
-
-**The Solution:**
-- 🔍 Advanced client-side filtering with real-time search
-- 💎 Glassmorphic UI with smooth Framer Motion animations
-- 🔖 Local bookmarking functionality
-- 📱 Fully responsive across all devices
-
-**Tech:** `Next.js` • `React` • `Tailwind CSS` • `Framer Motion` • `TypeScript`
-
----
-
-</details>
-
-<!-- Project 4: Mini Projects -->
-<details>
-<summary><b>🌐 Mini Projects</b> — 10 interactive web utilities & games</summary>
-<br>
-
-<div align="center">
-
-[![Mini Projects](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mini-projects)
-[![Tech Stack](https://img.shields.io/badge/Tech_Stack-Next.js_|_TypeScript-orange?style=for-the-badge)](#)
-
-</div>
-
-**The Challenge:**  
-Rapidly prototype small web utilities demonstrating diverse UI/UX patterns.
-
-**The Solution:**
-- 🎮 Interactive games and calculators
-- 💬 Chat interfaces with real-time updates
-- 🎨 Diverse UI patterns and animations
-- ⚡ Fast prototyping for learning and demos
-
-**Tech:** `Next.js` • `React` • `Tailwind CSS` • `TypeScript`
-
----
-
-</details>
-
-<!-- Project 5: Portfolio -->
-<details>
-<summary><b>👤 Personal Portfolio</b> — Animated showcase of projects</summary>
-<br>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/my-portfolio)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-success?style=for-the-badge&logo=vercel)](#)
-
-</div>
-
-**The Challenge:**  
-Build a fast, animated portfolio to showcase projects and case studies.
-
-**The Solution:**
-- ✨ Smooth Framer Motion animations
-- ♿ Accessible components throughout
-- 🚀 SEO optimizations for better discoverability
-- 📱 Responsive design for all screen sizes
-
-**Tech:** `Next.js` • `Tailwind CSS` • `Framer Motion`
-
----
-
-</details>
-
-<!-- Gradient Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- GitHub Stats Section -->
 <div align="center">
 
 ## 📊 GitHub Statistics
@@ -288,14 +44,620 @@ Build a fast, animated portfolio to showcase projects and case studies.
 </tr>
 </table>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yogeshthapa-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&text_color=ffffff" width="48%" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshthapa-7&custom_title=Contribution%20Graph&bg_color=1a1a2e&color=0f9d58&line=0f9d58&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshthapa-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&text_color=ffffff" width="48%" />
 
 </div>
 
-<!-- Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Tech Stack Section -->
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend & Frameworks
+
+<a href="https://react.dev">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
+<a href="https://nextjs.org">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</a>
+<a href="https://vitejs.dev">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</a>
+<a href="https://www.typescriptlang.org">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+<a href="https://tailwindcss.com">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</a>
+<a href="https://redux-toolkit.js.org">
+  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+<a href="https://lucide.dev">
+  <img src="https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge&logo=lucide&logoColor=white" />
+</a>
+
+### ⚙️ Backend & Databases
+
+<a href="https://nodejs.org">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</a>
+<a href="https://expressjs.com">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</a>
+<a href="https://www.mongodb.com">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+<a href="https://mongoosejs.com">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+</a>
+<a href="https://restfulapi.net">
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" />
+</a>
+
+### 🤖 AI & Automation
+
+<a href="https://www.python.org">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://opencv.org">
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+</a>
+<a href="https://pypi.org/project/SpeechRecognition/">
+  <img src="https://img.shields.io/badge/SpeechRecognition-FF6C37?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://pypi.org/project/pyttsx3/">
+  <img src="https://img.shields.io/badge/Pyttsx3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://github.com/pedroslopez/whatsapp-web.js">
+  <img src="https://img.shields.io/badge/WhatsApp_Bot_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+### 🖥️ Desktop & Systems (.NET)
+
+<a href="https://dotnet.microsoft.com">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+</a>
+<a href="https://dotnet.microsoft.com">
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</a>
+<a href="https://dotnet.microsoft.com">
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</a>
+<a href="https://visualstudio.microsoft.com">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+### 🛠️ Tools & Utilities
+
+<a href="https://git-scm.com">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.postman.com">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</a>
+<a href="https://www.npmjs.com">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<a href="https://www.php.net">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Featured Projects Section -->
+<div align="center">
+
+## 🚀 Featured Projects (55+ Projects)
+
+</div>
+
+### 🏗️ A. Full-Stack & Modern Web Applications (24 Projects)
+
+<details>
+<summary><b>🖥️ Auragen Workbench</b> — Enterprise workbench platform</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Lucide Icons`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/auragen-workbench)
+
+</details>
+
+<details>
+<summary><b>✨ Aurora Events Suite</b> — Event management platform</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/aurora-events-suite)
+
+</details>
+
+<details>
+<summary><b>📅 Booking Page System</b> — Service & hotel booking interface</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/booking_page)
+
+</details>
+
+<details>
+<summary><b>₿ Crypto Tracker</b> — Real-time cryptocurrency tracking platform</summary>
+<br>
+
+**Tech:** `Node.js` • `Express` • `MongoDB` • `Mongoose` • `Lucide Icons`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/crypto-tracker)
+
+</details>
+
+<details>
+<summary><b>👤 Digital Profile Landing UI</b> — Modern digital identity builder</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/digital-profile-landing-ui)
+
+</details>
+
+<details>
+<summary><b>🚌 NEA Transport Management System UI</b> — Government transport & ticket management</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/nea_tms_ui)
+
+</details>
+
+<details>
+<summary><b>🏛️ Thakre MIS UI</b> — Municipal management information system</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/thakre-mis-ui)
+
+</details>
+
+<details>
+<summary><b>🇳🇵 Nepal App Platform</b> — Local portal & services platform</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `Express` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/nepal-app)
+
+</details>
+
+<details>
+<summary><b>📊 Project Management Dashboard</b> — Task & project orchestration dashboard</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/project-management-dashboard)
+
+</details>
+
+<details>
+<summary><b>📋 ProManage Suite</b> — Multi-tier project tracking system</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/promanage)
+
+</details>
+
+<details>
+<summary><b>✅ Task Management System</b> — Streamlined task management tool</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/task-management-system)
+
+</details>
+
+<details>
+<summary><b>📄 Portfolios Generator</b> — Automated portfolio builder</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/portfolios-generator)
+
+</details>
+
+<details>
+<summary><b>🔄 Redux Mini Projects & Practice</b> — State management showcase</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `Redux Toolkit` • `TypeScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/redux-mini-projects)
+
+</details>
+
+<details>
+<summary><b>💬 SimpleChat</b> — Real-time chat application</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/simpleChat)
+
+</details>
+
+<details>
+<summary><b>📈 Social Media Dashboard</b> — Analytics dashboard</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript` • `Lucide Icons`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/social-media-dashboard)
+
+</details>
+
+<details>
+<summary><b>🚦 Traffic Monitor</b> — Real-time traffic analytics UI</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/traffic-monitor)
+
+</details>
+
+<details>
+<summary><b>🎨 Midnight Canvas</b> — Interactive creative canvas app</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/midnight-canvas)
+
+</details>
+
+<details>
+<summary><b>💻 UpCode & UpCode Nepal</b> — Tech community platforms</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `Vite` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/upcode)
+
+</details>
+
+<details>
+<summary><b>📚 Library Management System</b> — Digital library catalog & issue management</summary>
+<br>
+
+**Tech:** `React` • `Vite` • `TypeScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/Library_Management_System)
+
+</details>
+
+<details>
+<summary><b>🌤️ Weather & Weather Dashboard</b> — Analytics dashboards</summary>
+<br>
+
+**Tech:** `Node.js` • `Tailwind CSS` • `Lucide Icons`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/weather)
+
+</details>
+
+<details>
+<summary><b>🛒 E-Commerce Platform</b> — Enterprise-grade storefront</summary>
+<br>
+
+**Tech:** `Next.js` • `TypeScript` • `Shadcn/UI` • `Tailwind CSS` • `Formik` • `Yup`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ecommerce)
+
+</details>
+
+<details>
+<summary><b>🤖 AI Tools Directory</b> — Curated AI tools with advanced filtering</summary>
+<br>
+
+**Tech:** `Next.js` • `React` • `Tailwind CSS` • `Framer Motion` • `TypeScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ai-tools-directory)
+
+</details>
+
+<details>
+<summary><b>🌐 Mini Projects</b> — 10 interactive web utilities & games</summary>
+<br>
+
+**Tech:** `Next.js` • `React` • `Tailwind CSS` • `TypeScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mini-projects)
+
+</details>
+
+<details>
+<summary><b>👤 Personal Portfolio</b> — Animated showcase of projects</summary>
+<br>
+
+**Tech:** `Next.js` • `Tailwind CSS` • `Framer Motion`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/my-portfolio)
+
+</details>
+
+<details>
+<summary><b>📦 Express Server Scaffold</b> — Modular REST API scaffold</summary>
+<br>
+
+**Tech:** `Node.js` • `Express` • `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/express)
+
+</details>
+
+<details>
+<summary><b>📧 Mail App</b> — Webmail management interface</summary>
+<br>
+
+**Tech:** `JavaScript` • `HTML` • `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mail-app)
+
+</details>
+
+<details>
+<summary><b>🧮 Dyad Apps</b> — Suite of interactive web applications</summary>
+<br>
+
+**Tech:** `JavaScript` • `HTML` • `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/dyad-apps)
+
+</details>
+
+### 🤖 B. AI, Machine Learning & Voice Automation (4 Projects)
+
+<details>
+<summary><b>👁️ Face Detection System</b> — Computer vision pipeline</summary>
+<br>
+
+**Tech:** `Python` • `OpenCV` • `HTML` • `CSS` • `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/FaceDetection)
+
+</details>
+
+<details>
+<summary><b>🎙️ Jarvis AI Assistant</b> — Voice-activated desktop assistant</summary>
+<br>
+
+**Tech:** `Python` • `SpeechRecognition` • `Pyttsx3` • `TTS Engines`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/jarvis-ai-assistant)
+
+</details>
+
+<details>
+<summary><b>🗣️ Voice Assistant Web UI</b> — AI voice interaction web app</summary>
+<br>
+
+**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/voiceAssistant)
+
+</details>
+
+<details>
+<summary><b>💬 WhatsApp AI Bot</b> — Automated intelligent WhatsApp messaging bot</summary>
+<br>
+
+**Tech:** `Node.js` • `WhatsApp Bot API`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/whatsapp-ai-bot)
+
+</details>
+
+### 🖥️ C. C# & .NET Desktop Applications (12 Projects)
+
+<details>
+<summary><b>🧮 Calculator</b> — Desktop graphical calculator</summary>
+<br>
+
+**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
+
+</details>
+
+<details>
+<summary><b>🔐 LoginForm & LoginPage</b> — Authentication & security desktop UIs</summary>
+<br>
+
+**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
+
+</details>
+
+<details>
+<summary><b>📝 RegForm</b> — User registration systems</summary>
+<br>
+
+**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
+
+</details>
+
+<details>
+<summary><b>📸 Instagram</b> — Desktop UI clone</summary>
+<br>
+
+**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
+
+</details>
+
+<details>
+<summary><b>🚦 TrafficLight</b> — State machine traffic simulation</summary>
+<br>
+
+**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
+
+</details>
+
+<details>
+<summary><b>▶️ StartStop</b> — Process control application</summary>
+<br>
+
+**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
+
+</details>
+
+<details>
+<summary><b>📦 app, ConsoleApp1, New, newproject, project1</b> — System utilities & console projects</summary>
+<br>
+
+**Tech:** `C#` • `.NET Core` • `.NET Framework` • `Visual Studio`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
+
+</details>
+
+### 🔧 D. Full-Stack Node.js & Utility Backends (7 Projects)
+
+<details>
+<summary><b>🛒 Ecommerce Engine</b> — E-commerce storefront backend</summary>
+<br>
+
+**Tech:** `Node.js` • `JavaScript` • `Express`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ecommerce)
+
+</details>
+
+<details>
+<summary><b>🛠️ Express Server Scaffold</b> — Modular REST API scaffold</summary>
+<br>
+
+**Tech:** `Node.js` • `Express` • `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/express)
+
+</details>
+
+<details>
+<summary><b>📧 Mail App</b> — Webmail management interface</summary>
+<br>
+
+**Tech:** `JavaScript` • `HTML` • `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mail-app)
+
+</details>
+
+<details>
+<summary><b>👤 My Portfolio</b> — Personal portfolio web app</summary>
+<br>
+
+**Tech:** `Next.js` • `React` • `TypeScript` • `Tailwind CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/my-portfolio)
+
+</details>
+
+<details>
+<summary><b>🌐 yogeshfrontend</b> — Custom frontend portfolio</summary>
+<br>
+
+**Tech:** `HTML` • `CSS` • `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/yogeshfrontend)
+
+</details>
+
+<details>
+<summary><b>🧩 Dyad Apps</b> — Suite of interactive web applications</summary>
+<br>
+
+**Tech:** `JavaScript` • `HTML` • `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/dyad-apps)
+
+</details>
+
+### 🔒 E. Security, Tooling & Scripting (3 Projects)
+
+<details>
+<summary><b>🛡️ SocialPhish</b> — Educational cybersecurity framework</summary>
+<br>
+
+**Tech:** `PHP` • `Bash/Shell` • `HTML` • `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/socialphish)
+
+</details>
+
+<details>
+<summary><b>🤖 AI Tools Directory</b> — Curated AI software directory</summary>
+<br>
+
+**Tech:** `JavaScript` • `HTML` • `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ai-tools-directory)
+
+</details>
+
+<details>
+<summary><b>📈 Nepali Stock Market & Basic to Advance JS</b> — Financial tools & JS reference</summary>
+<br>
+
+**Tech:** `JavaScript` • `HTML` • `CSS`
+
+[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/Nepali-Stock_Market)
+
+</details>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -308,9 +670,9 @@ Build a fast, animated portfolio to showcase projects and case studies.
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://github.com/yogeshthapa-7/my-portfolio">
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/>
-<br><b>Portfolio</b>
+<a href="mailto:yogsthapa@gmail.com">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60"/>
+<br><b>Email</b>
 </a>
 </td>
 <td align="center" width="25%">
@@ -320,15 +682,15 @@ Build a fast, animated portfolio to showcase projects and case studies.
 </a>
 </td>
 <td align="center" width="25%">
-<a href="mailto:yogsthapa@gmail.com">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60"/>
-<br><b>Email</b>
-</a>
-</td>
-<td align="center" width="25%">
 <a href="https://github.com/yogeshthapa-7">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="60"/>
 <br><b>GitHub</b>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/yogeshthapa-7/my-portfolio">
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/>
+<br><b>Portfolio</b>
 </a>
 </td>
 </tr>
@@ -336,19 +698,23 @@ Build a fast, animated portfolio to showcase projects and case studies.
 
 <br>
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/yogeshthapa-7/my-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-thapa)
-[![Email](https://img.shields.io/badge/Email-yogsthapa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogsthapa@gmail.com)
+### 🎯 Open to Opportunities
+
+I'm currently looking for **full-time opportunities**, **freelance projects**, and **collaborations** in:
+
+- 🌐 Full-Stack & Frontend Development
+- 🤖 AI & Automation Solutions
+- 🖥️ .NET Desktop Applications
+- 🚀 Scalable Web Architecture
+
+Feel free to reach out if you'd like to build something impactful together!
 
 </div>
 
-<!-- Gradient Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<!-- Quote Section -->
 <div align="center">
 
 ### 💭 Developer Quote
@@ -357,12 +723,10 @@ Build a fast, animated portfolio to showcase projects and case studies.
 
 </div>
 
-<!-- Gradient Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<!-- Profile Views Counter -->
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yogeshthapa-7&color=0f9d58&style=for-the-badge&label=PROFILE+VIEWS)
