@@ -4,11 +4,11 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/divider.gif">
 
 <div align="center">
 
-### 🚀 Full-Stack & Frontend Engineer | Building Scalable Web Apps, AI Vision Tools & .NET Systems
+### 🚀 Frontend Engineer | Building Scalable Web Apps & AI Vision Tools
 
 <a href="mailto:yogsthapa@gmail.com">
   <img src="https://img.shields.io/badge/Email-yogsthapa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,7 +25,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/divider.gif">
 
 <br>
 
@@ -48,7 +48,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/divider.gif">
 
 <br>
 
@@ -126,24 +126,6 @@
   <img src="https://img.shields.io/badge/WhatsApp_Bot_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-### 🖥️ Desktop & Systems (.NET)
-
-<a href="https://dotnet.microsoft.com">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-</a>
-<a href="https://dotnet.microsoft.com">
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</a>
-<a href="https://dotnet.microsoft.com">
-  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</a>
-<a href="https://visualstudio.microsoft.com">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
 ### 🛠️ Tools & Utilities
 
 <a href="https://git-scm.com">
@@ -158,37 +140,21 @@
 <a href="https://www.npmjs.com">
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
-<a href="https://www.php.net">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</a>
-<a href="https://www.gnu.org/software/bash/">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/divider.gif">
 
 <br>
 
 <!-- Featured Projects Section -->
 <div align="center">
 
-## 🚀 Featured Projects (55+ Projects)
+## 🚀 Featured Projects (30+ Projects)
 
 </div>
 
-### 🏗️ A. Full-Stack & Modern Web Applications (24 Projects)
-
-<details>
-<summary><b>🖥️ Auragen Workbench</b> — Enterprise workbench platform</summary>
-<br>
-
-**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Lucide Icons`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/auragen-workbench)
-
-</details>
+### 🏗️ A. Modern Web Applications
 
 <details>
 <summary><b>✨ Aurora Events Suite</b> — Event management platform</summary>
@@ -231,7 +197,7 @@
 </details>
 
 <details>
-<summary><b>🚌 NEA Transport Management System UI</b> — Government transport & ticket management</summary>
+<summary><b>🚌 NEA Transformer Management System UI</b> — Transformer management system</summary>
 <br>
 
 **Tech:** `React` • `Vite` • `TypeScript`
@@ -251,42 +217,12 @@
 </details>
 
 <details>
-<summary><b>🇳🇵 Nepal App Platform</b> — Local portal & services platform</summary>
+<summary><b>📋 ProManage</b> — Multi-tier project tracking system</summary>
 <br>
 
-**Tech:** `React` • `Vite` • `Express` • `TypeScript` • `Tailwind CSS`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/nepal-app)
-
-</details>
-
-<details>
-<summary><b>📊 Project Management Dashboard</b> — Task & project orchestration dashboard</summary>
-<br>
-
-**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/project-management-dashboard)
-
-</details>
-
-<details>
-<summary><b>📋 ProManage Suite</b> — Multi-tier project tracking system</summary>
-<br>
-
-**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
+**Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS` • `Lucide Icons` • `AntDesign` • `RestAPI`
 
 [![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/promanage)
-
-</details>
-
-<details>
-<summary><b>✅ Task Management System</b> — Streamlined task management tool</summary>
-<br>
-
-**Tech:** `React` • `Next.js` • `TypeScript`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/task-management-system)
 
 </details>
 
@@ -321,27 +257,7 @@
 </details>
 
 <details>
-<summary><b>📈 Social Media Dashboard</b> — Analytics dashboard</summary>
-<br>
-
-**Tech:** `React` • `Next.js` • `TypeScript` • `Lucide Icons`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/social-media-dashboard)
-
-</details>
-
-<details>
-<summary><b>🚦 Traffic Monitor</b> — Real-time traffic analytics UI</summary>
-<br>
-
-**Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/traffic-monitor)
-
-</details>
-
-<details>
-<summary><b>🎨 Midnight Canvas</b> — Interactive creative canvas app</summary>
+<summary><b>🎨 Midnight Canvas</b> — Interactive creative supercars showcase</summary>
 <br>
 
 **Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
@@ -421,32 +337,12 @@
 </details>
 
 <details>
-<summary><b>📦 Express Server Scaffold</b> — Modular REST API scaffold</summary>
-<br>
-
-**Tech:** `Node.js` • `Express` • `JavaScript`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/express)
-
-</details>
-
-<details>
 <summary><b>📧 Mail App</b> — Webmail management interface</summary>
 <br>
 
 **Tech:** `JavaScript` • `HTML` • `CSS`
 
 [![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mail-app)
-
-</details>
-
-<details>
-<summary><b>🧮 Dyad Apps</b> — Suite of interactive web applications</summary>
-<br>
-
-**Tech:** `JavaScript` • `HTML` • `CSS`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/dyad-apps)
 
 </details>
 
@@ -492,79 +388,7 @@
 
 </details>
 
-### 🖥️ C. C# & .NET Desktop Applications (12 Projects)
-
-<details>
-<summary><b>🧮 Calculator</b> — Desktop graphical calculator</summary>
-<br>
-
-**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
-
-</details>
-
-<details>
-<summary><b>🔐 LoginForm & LoginPage</b> — Authentication & security desktop UIs</summary>
-<br>
-
-**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
-
-</details>
-
-<details>
-<summary><b>📝 RegForm</b> — User registration systems</summary>
-<br>
-
-**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
-
-</details>
-
-<details>
-<summary><b>📸 Instagram</b> — Desktop UI clone</summary>
-<br>
-
-**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
-
-</details>
-
-<details>
-<summary><b>🚦 TrafficLight</b> — State machine traffic simulation</summary>
-<br>
-
-**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
-
-</details>
-
-<details>
-<summary><b>▶️ StartStop</b> — Process control application</summary>
-<br>
-
-**Tech:** `C#` • `.NET Core` • `.NET Framework` • `WinForms` • `WPF`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
-
-</details>
-
-<details>
-<summary><b>📦 app, ConsoleApp1, New, newproject, project1</b> — System utilities & console projects</summary>
-<br>
-
-**Tech:** `C#` • `.NET Core` • `.NET Framework` • `Visual Studio`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7)
-
-</details>
-
-### 🔧 D. Full-Stack Node.js & Utility Backends (7 Projects)
+### 🔧 C. Full-Stack Node.js & Utility Backends (7 Projects)
 
 <details>
 <summary><b>🛒 Ecommerce Engine</b> — E-commerce storefront backend</summary>
@@ -616,17 +440,7 @@
 
 </details>
 
-<details>
-<summary><b>🧩 Dyad Apps</b> — Suite of interactive web applications</summary>
-<br>
-
-**Tech:** `JavaScript` • `HTML` • `CSS`
-
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/dyad-apps)
-
-</details>
-
-### 🔒 E. Security, Tooling & Scripting (3 Projects)
+### 🔒 D. Security, Tooling & Scripting (3 Projects)
 
 <details>
 <summary><b>🛡️ SocialPhish</b> — Educational cybersecurity framework</summary>
@@ -658,7 +472,7 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/divider.gif">
 
 <br>
 
@@ -702,16 +516,15 @@
 
 I'm currently looking for **full-time opportunities**, **freelance projects**, and **collaborations** in:
 
-- 🌐 Full-Stack & Frontend Development
+- 🌐 Frontend Development
 - 🤖 AI & Automation Solutions
-- 🖥️ .NET Desktop Applications
 - 🚀 Scalable Web Architecture
 
 Feel free to reach out if you'd like to build something impactful together!
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/divider.gif">
 
 <br>
 
@@ -723,7 +536,7 @@ Feel free to reach out if you'd like to build something impactful together!
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="assets/divider.gif">
 
 <br>
 
