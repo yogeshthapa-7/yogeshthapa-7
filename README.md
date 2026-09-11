@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Thapa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20MERN%20Specialist&descSize=16&descAlignY=51" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Thapa&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20MERN%20Specialist&descSize=16&descAlignY=51" width="100%"/>
 
 </div>
 
@@ -42,7 +42,7 @@
 <!-- About Section with Custom Styling -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="About Me"/> About Me
 
 </div>
 
@@ -53,12 +53,12 @@ const yogesh = {
     technologies: {
         frontEnd: {
             framework: ["Next.js", "React"],
-            styling: ["Tailwind CSS", "Shadcn/UI", "Framer Motion"],
+            styling: ["Tailwind CSS", "Shadcn/UI", "Framer Motion", "AntDesign"],
             state: ["Redux Toolkit", "Context API"]
         },
         backEnd: {
             runtime: ["Node.js"],
-            database: ["MongoDB", "PostgreSQL"],
+            database: ["MongoDB", "MySQL"],
             api: ["RESTful", "GraphQL"]
         },
         devOps: ["Docker", "GitHub Actions", "Vercel"],
@@ -86,7 +86,7 @@ const yogesh = {
 <!-- Tech Stack Section -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" alt="Tech Stack"/> Tech Stack
 
 <!-- Frontend -->
 <h3>🎨 Frontend</h3>
@@ -128,7 +128,7 @@ const yogesh = {
 <!-- Featured Projects Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Featured Projects
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Projects"/> Featured Projects
 
 </div>
 
@@ -280,7 +280,7 @@ Build a fast, animated portfolio to showcase projects and case studies.
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yogeshthapa-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&icon_color=0f9d58&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshthapa-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=0f9d58&icon_color=0f9d58&text_color=ffffff" />
 </td>
 <td width="50%" align="center">
   <img src="https://streak-stats.demolab.com/?user=yogeshthapa-7&theme=tokyonight&hide_border=true&background=1a1a2e&ring=0f9d58&fire=0f9d58&currStreakLabel=ffffff" />
