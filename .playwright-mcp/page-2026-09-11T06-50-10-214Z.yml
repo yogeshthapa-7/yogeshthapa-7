@@ -1,0 +1,470 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e3]:
+    - link "Skip to content" [ref=f1e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f1e9]:
+      - heading "Navigation Menu" [level=2] [ref=f1e10]
+      - generic [ref=f1e11]:
+        - link "Homepage" [ref=f1e13] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f1e16]:
+          - navigation "Global" [ref=f1e17]:
+            - list [ref=f1e18]:
+              - listitem [ref=f1e19]:
+                - button "Platform" [ref=f1e21] [cursor=pointer]
+              - listitem [ref=f1e24]:
+                - button "Solutions" [ref=f1e26] [cursor=pointer]
+              - listitem [ref=f1e29]:
+                - button "Resources" [ref=f1e31] [cursor=pointer]
+              - listitem [ref=f1e34]:
+                - button "Open Source" [ref=f1e36] [cursor=pointer]
+              - listitem [ref=f1e39]:
+                - button "Enterprise" [ref=f1e41] [cursor=pointer]
+              - listitem [ref=f1e44]:
+                - link "Pricing" [ref=f1e45] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=f1e46]:
+            - button "Search or jump to, type / to search" [ref=f1e48] [cursor=pointer]
+            - link "Sign in" [ref=f1e55] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fyogeshthapa-7%2Fyogeshthapa-7
+            - link "Sign up" [ref=f1e58] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=yogeshthapa-7%2Fyogeshthapa-7
+            - button "Appearance settings" [ref=f1e61] [cursor=pointer]
+  - main [ref=f1e68]:
+    - generic [ref=f1e69]:
+      - generic [ref=f1e70]:
+        - generic [ref=f1e72]:
+          - link "yogeshthapa-7" [ref=f1e76] [cursor=pointer]:
+            - /url: /yogeshthapa-7
+          - generic [ref=f1e77]: /
+          - strong [ref=f1e78]:
+            - link "yogeshthapa-7" [ref=f1e79] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7
+          - generic [ref=f1e80]: Public
+        - generic [ref=f1e81]:
+          - list:
+            - listitem [ref=f1e82]:
+              - link "You must be signed in to change notification settings" [ref=f1e83] [cursor=pointer]:
+                - /url: /login?return_to=%2Fyogeshthapa-7%2Fyogeshthapa-7
+                - text: Notifications
+            - listitem [ref=f1e86]:
+              - link "Fork 0" [ref=f1e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Fyogeshthapa-7%2Fyogeshthapa-7
+                - text: Fork
+                - generic "0" [ref=f1e90]
+            - listitem [ref=f1e91]:
+              - link "You must be signed in to star a repository" [ref=f1e93] [cursor=pointer]:
+                - /url: /login?return_to=%2Fyogeshthapa-7%2Fyogeshthapa-7
+                - text: Star
+                - generic "0 users starred this repository" [ref=f1e96]: "0"
+      - navigation "Repository" [ref=f1e97]:
+        - list [ref=f1e98]:
+          - listitem [ref=f1e99]:
+            - link "Code" [ref=f1e100] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7
+          - listitem [ref=f1e104]:
+            - link "Issues" [ref=f1e105] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7/issues
+          - listitem [ref=f1e110]:
+            - link "Pull requests" [ref=f1e111] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7/pulls
+          - listitem [ref=f1e115]:
+            - link "Actions" [ref=f1e116] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7/actions
+          - listitem [ref=f1e120]:
+            - link "Projects" [ref=f1e121] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7/projects
+          - listitem [ref=f1e125]:
+            - link "Security and quality" [ref=f1e126] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7/security
+          - listitem [ref=f1e130]:
+            - link "Insights" [ref=f1e131] [cursor=pointer]:
+              - /url: /yogeshthapa-7/yogeshthapa-7/pulse
+    - generic [ref=f1e148]:
+      - generic [ref=f1e151]:
+        - generic [ref=f1e152]:
+          - generic [ref=f1e153]:
+            - button "main branch" [ref=f1e155] [cursor=pointer]:
+              - generic [ref=f1e156]: main
+            - generic [ref=f1e160]:
+              - link "Branches" [ref=f1e161] [cursor=pointer]:
+                - /url: /yogeshthapa-7/yogeshthapa-7/branches
+              - link "Tags" [ref=f1e164] [cursor=pointer]:
+                - /url: /yogeshthapa-7/yogeshthapa-7/tags
+          - generic [ref=f1e167]:
+            - combobox "Go to file" [ref=f1e175]
+            - button "Code" [ref=f1e176] [cursor=pointer]
+        - generic [ref=f1e179]:
+          - generic [ref=f1e180]:
+            - generic [ref=f1e182]:
+              - heading "Latest commit" [level=2] [ref=f1e183]
+              - generic [ref=f1e186]:
+                - heading "History" [level=2] [ref=f1e187]
+                - link "8 Commits" [ref=f1e188] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/commits/main/
+            - heading "Folders and files" [level=2] [ref=f1e191]
+            - table "Folders and files" [ref=f1e192]:
+              - rowgroup:
+                - row "Name Last commit message Last commit date":
+                  - columnheader "Name"
+                  - columnheader "Last commit message"
+                  - columnheader "Last commit date"
+              - rowgroup [ref=f1e193]:
+                - row ".playwright-mcp, (Directory)" [ref=f1e194]:
+                  - cell [ref=f1e195]:
+                    - link ".playwright-mcp, (Directory)" [ref=f1e202] [cursor=pointer]:
+                      - /url: /yogeshthapa-7/yogeshthapa-7/tree/main/.playwright-mcp
+                      - text: .playwright-mcp
+                  - cell [ref=f1e203]
+                  - cell [ref=f1e205]
+                - row "assets, (Directory)" [ref=f1e208]:
+                  - cell [ref=f1e209]:
+                    - link "assets, (Directory)" [ref=f1e216] [cursor=pointer]:
+                      - /url: /yogeshthapa-7/yogeshthapa-7/tree/main/assets
+                      - text: assets
+                  - cell [ref=f1e217]
+                  - cell [ref=f1e219]
+                - row "README.md, (File)" [ref=f1e222]:
+                  - cell [ref=f1e223]:
+                    - link "README.md, (File)" [ref=f1e230] [cursor=pointer]:
+                      - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/README.md
+                      - text: README.md
+                  - cell [ref=f1e231]
+                  - cell [ref=f1e233]
+          - generic [ref=f1e237]:
+            - generic [ref=f1e238]:
+              - heading "Repository files navigation" [level=2] [ref=f1e239]
+              - navigation "Repository files" [ref=f1e240]:
+                - list [ref=f1e241]:
+                  - listitem [ref=f1e242]:
+                    - link "README" [ref=f1e243] [cursor=pointer]:
+                      - /url: "#"
+              - button "Outline" [ref=f1e248] [cursor=pointer]
+            - article [ref=f1e252]:
+              - link [ref=f1e254] [cursor=pointer]:
+                - /url: https://camo.githubusercontent.com/4f66d0ab5a60119b4ab60d089716f5c97409eb343ad484a8f5c99213355c298e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3138302673656374696f6e3d68656164657226746578743d596f67657368253230546861706126666f6e7453697a653d343226666f6e74436f6c6f723d66666626666f6e74416c69676e593d333226646573633d46756c6c2d537461636b25323025323625323046726f6e74656e64253230456e67696e65657225323025374325323041492532302532362532304175746f6d6174696f6e253230456e74687573696173742532302537432532302e4e4554253230446576656c6f706572266465736353697a653d31342664657363416c69676e593d3531
+              - paragraph [ref=f1e256]:
+                - link [ref=f1e258] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/assets/divider.gif
+              - generic [ref=f1e260]:
+                - generic [ref=f1e261]:
+                  - heading "🚀 Frontend Engineer | Building Scalable Web Apps & AI Vision Tools" [level=3] [ref=f1e262]
+                  - 'link "Permalink: 🚀 Frontend Engineer | Building Scalable Web Apps & AI Vision Tools" [ref=f1e263] [cursor=pointer]':
+                    - /url: "#-frontend-engineer--building-scalable-web-apps--ai-vision-tools"
+                - link [ref=f1e266] [cursor=pointer]:
+                  - /url: mailto:yogsthapa@gmail.com
+                - link [ref=f1e268] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/yogesh-thapa
+                - link [ref=f1e270] [cursor=pointer]:
+                  - /url: https://github.com/yogeshthapa-7
+                - link [ref=f1e272] [cursor=pointer]:
+                  - /url: https://github.com/yogeshthapa-7
+              - paragraph [ref=f1e274]:
+                - link [ref=f1e276] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/assets/divider.gif
+              - generic [ref=f1e278]:
+                - generic [ref=f1e279]:
+                  - heading "📊 GitHub Statistics" [level=2] [ref=f1e280]
+                  - 'link "Permalink: 📊 GitHub Statistics" [ref=f1e281] [cursor=pointer]':
+                    - /url: "#-github-statistics"
+                - table [ref=f1e285]:
+                  - rowgroup [ref=f1e286]:
+                    - row [ref=f1e287]:
+                      - cell [ref=f1e288]:
+                        - link [ref=f1e289] [cursor=pointer]:
+                          - /url: https://camo.githubusercontent.com/24ee98c746fcf4f95992f1672402f4762fdea2bfa71f7b825dd0e081c2eaa3d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d796f6765736874686170612d372673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426686964655f626f726465723d747275652662675f636f6c6f723d316131613265267469746c655f636f6c6f723d3066396435382669636f6e5f636f6c6f723d30663964353826746578745f636f6c6f723d666666666666
+                      - cell [ref=f1e291]:
+                        - link [ref=f1e292] [cursor=pointer]:
+                          - /url: https://camo.githubusercontent.com/b6640fd8d631ec383a86e68ff7053e336733e26c3ea900bfdd48392c0da1a3ce/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d796f6765736874686170612d37267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565266261636b67726f756e643d3161316132652672696e673d30663964353826666972653d306639643538266375727253747265616b4c6162656c3d666666666666
+                - link [ref=f1e294] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/b34b7c76ac0b8ad8565b418c66c5fbb3ae41504bf17c9afd8fd334201f917e5c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d796f6765736874686170612d37266c61796f75743d636f6d70616374267468656d653d746f6b796f6e6967687426686964655f626f726465723d747275652662675f636f6c6f723d316131613265267469746c655f636f6c6f723d30663964353826746578745f636f6c6f723d666666666666
+              - paragraph [ref=f1e296]:
+                - link [ref=f1e298] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/assets/divider.gif
+              - generic [ref=f1e300]:
+                - generic [ref=f1e301]:
+                  - heading "🛠️ Tech Stack" [level=2] [ref=f1e302]
+                  - 'link "Permalink: 🛠️ Tech Stack" [ref=f1e303] [cursor=pointer]':
+                    - /url: "#️-tech-stack"
+                - generic [ref=f1e306]:
+                  - heading "🎨 Frontend & Frameworks" [level=3] [ref=f1e307]
+                  - 'link "Permalink: 🎨 Frontend & Frameworks" [ref=f1e308] [cursor=pointer]':
+                    - /url: "#-frontend--frameworks"
+                - link [ref=f1e311] [cursor=pointer]:
+                  - /url: https://react.dev
+                - link [ref=f1e313] [cursor=pointer]:
+                  - /url: https://nextjs.org
+                - link [ref=f1e315] [cursor=pointer]:
+                  - /url: https://vitejs.dev
+                - link [ref=f1e317] [cursor=pointer]:
+                  - /url: https://www.typescriptlang.org
+                - link [ref=f1e319] [cursor=pointer]:
+                  - /url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+                - link [ref=f1e321] [cursor=pointer]:
+                  - /url: https://developer.mozilla.org/en-US/docs/Web/HTML
+                - link [ref=f1e323] [cursor=pointer]:
+                  - /url: https://developer.mozilla.org/en-US/docs/Web/CSS
+                - link [ref=f1e325] [cursor=pointer]:
+                  - /url: https://tailwindcss.com
+                - link [ref=f1e327] [cursor=pointer]:
+                  - /url: https://redux-toolkit.js.org
+                - link [ref=f1e329] [cursor=pointer]:
+                  - /url: https://lucide.dev
+                - generic [ref=f1e331]:
+                  - heading "⚙️ Backend & Databases" [level=3] [ref=f1e332]
+                  - 'link "Permalink: ⚙️ Backend & Databases" [ref=f1e333] [cursor=pointer]':
+                    - /url: "#️-backend--databases"
+                - link [ref=f1e336] [cursor=pointer]:
+                  - /url: https://nodejs.org
+                - link [ref=f1e338] [cursor=pointer]:
+                  - /url: https://expressjs.com
+                - link [ref=f1e340] [cursor=pointer]:
+                  - /url: https://www.mongodb.com
+                - link [ref=f1e342] [cursor=pointer]:
+                  - /url: https://mongoosejs.com
+                - link [ref=f1e344] [cursor=pointer]:
+                  - /url: https://restfulapi.net
+                - generic [ref=f1e346]:
+                  - heading "🤖 AI & Automation" [level=3] [ref=f1e347]
+                  - 'link "Permalink: 🤖 AI & Automation" [ref=f1e348] [cursor=pointer]':
+                    - /url: "#-ai--automation"
+                - link [ref=f1e351] [cursor=pointer]:
+                  - /url: https://www.python.org
+                - link [ref=f1e353] [cursor=pointer]:
+                  - /url: https://opencv.org
+                - link [ref=f1e355] [cursor=pointer]:
+                  - /url: https://pypi.org/project/SpeechRecognition/
+                - link [ref=f1e357] [cursor=pointer]:
+                  - /url: https://pypi.org/project/pyttsx3/
+                - link [ref=f1e359] [cursor=pointer]:
+                  - /url: https://github.com/pedroslopez/whatsapp-web.js
+                - generic [ref=f1e361]:
+                  - heading "🛠️ Tools & Utilities" [level=3] [ref=f1e362]
+                  - 'link "Permalink: 🛠️ Tools & Utilities" [ref=f1e363] [cursor=pointer]':
+                    - /url: "#️-tools--utilities"
+                - link [ref=f1e366] [cursor=pointer]:
+                  - /url: https://git-scm.com
+                - link [ref=f1e368] [cursor=pointer]:
+                  - /url: https://github.com
+                - link [ref=f1e370] [cursor=pointer]:
+                  - /url: https://www.postman.com
+                - link [ref=f1e372] [cursor=pointer]:
+                  - /url: https://www.npmjs.com
+              - paragraph [ref=f1e374]:
+                - link [ref=f1e376] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/assets/divider.gif
+              - generic [ref=f1e379]:
+                - heading "🚀 Featured Projects (30+ Projects)" [level=2] [ref=f1e380]
+                - 'link "Permalink: 🚀 Featured Projects (30+ Projects)" [ref=f1e381] [cursor=pointer]':
+                  - /url: "#-featured-projects-30-projects"
+              - generic [ref=f1e384]:
+                - heading "🏗️ A. Modern Web Applications" [level=3] [ref=f1e385]
+                - 'link "Permalink: 🏗️ A. Modern Web Applications" [ref=f1e386] [cursor=pointer]':
+                  - /url: "#️-a-modern-web-applications"
+              - group [ref=f1e389]:
+                - generic "✨ Aurora Events Suite — Event management platform" [ref=f1e390] [cursor=pointer]
+              - group [ref=f1e391]:
+                - generic "📅 Booking Page System — Service & hotel booking interface" [ref=f1e392] [cursor=pointer]
+              - group [ref=f1e393]:
+                - generic "₿ Crypto Tracker — Real-time cryptocurrency tracking platform" [ref=f1e394] [cursor=pointer]
+              - group [ref=f1e395]:
+                - generic "👤 Digital Profile Landing UI — Modern digital identity builder" [ref=f1e396] [cursor=pointer]
+              - group [ref=f1e397]:
+                - generic "🚌 NEA Transformer Management System UI — Transformer management system" [ref=f1e398] [cursor=pointer]
+              - group [ref=f1e399]:
+                - generic "🏛️ Thakre MIS UI — Municipal management information system" [ref=f1e400] [cursor=pointer]
+              - group [ref=f1e401]:
+                - generic "📋 ProManage — Multi-tier project tracking system" [ref=f1e402] [cursor=pointer]
+              - group [ref=f1e403]:
+                - generic "📄 Portfolios Generator — Automated portfolio builder" [ref=f1e404] [cursor=pointer]
+              - group [ref=f1e405]:
+                - generic "🔄 Redux Mini Projects & Practice — State management showcase" [ref=f1e406] [cursor=pointer]
+              - group [ref=f1e407]:
+                - generic "💬 SimpleChat — Real-time chat application" [ref=f1e408] [cursor=pointer]
+              - group [ref=f1e409]:
+                - generic "🎨 Midnight Canvas — Interactive creative supercars showcase" [ref=f1e410] [cursor=pointer]
+              - group [ref=f1e411]:
+                - generic "💻 UpCode & UpCode Nepal — Tech community platforms" [ref=f1e412] [cursor=pointer]
+              - group [ref=f1e413]:
+                - generic "📚 Library Management System — Digital library catalog & issue management" [ref=f1e414] [cursor=pointer]
+              - group [ref=f1e415]:
+                - generic "🌤️ Weather & Weather Dashboard — Analytics dashboards" [ref=f1e416] [cursor=pointer]
+              - group [ref=f1e417]:
+                - generic "🛒 E-Commerce Platform — Enterprise-grade storefront" [ref=f1e418] [cursor=pointer]
+              - group [ref=f1e419]:
+                - generic "🤖 AI Tools Directory — Curated AI tools with advanced filtering" [ref=f1e420] [cursor=pointer]
+              - group [ref=f1e421]:
+                - generic "🌐 Mini Projects — 10 interactive web utilities & games" [ref=f1e422] [cursor=pointer]
+              - group [ref=f1e423]:
+                - generic "👤 Personal Portfolio — Animated showcase of projects" [ref=f1e424] [cursor=pointer]
+              - group [ref=f1e425]:
+                - generic "📧 Mail App — Webmail management interface" [ref=f1e426] [cursor=pointer]
+              - generic [ref=f1e427]:
+                - heading "🤖 B. AI, Machine Learning & Voice Automation (4 Projects)" [level=3] [ref=f1e428]
+                - 'link "Permalink: 🤖 B. AI, Machine Learning & Voice Automation (4 Projects)" [ref=f1e429] [cursor=pointer]':
+                  - /url: "#-b-ai-machine-learning--voice-automation-4-projects"
+              - group [ref=f1e432]:
+                - generic "👁️ Face Detection System — Computer vision pipeline" [ref=f1e433] [cursor=pointer]
+              - group [ref=f1e434]:
+                - generic "🎙️ Jarvis AI Assistant — Voice-activated desktop assistant" [ref=f1e435] [cursor=pointer]
+              - group [ref=f1e436]:
+                - generic "🗣️ Voice Assistant Web UI — AI voice interaction web app" [ref=f1e437] [cursor=pointer]
+              - group [ref=f1e438]:
+                - generic "💬 WhatsApp AI Bot — Automated intelligent WhatsApp messaging bot" [ref=f1e439] [cursor=pointer]
+              - generic [ref=f1e440]:
+                - heading "🔧 C. Full-Stack Node.js & Utility Backends (7 Projects)" [level=3] [ref=f1e441]
+                - 'link "Permalink: 🔧 C. Full-Stack Node.js & Utility Backends (7 Projects)" [ref=f1e442] [cursor=pointer]':
+                  - /url: "#-c-full-stack-nodejs--utility-backends-7-projects"
+              - group [ref=f1e445]:
+                - generic "🛒 Ecommerce Engine — E-commerce storefront backend" [ref=f1e446] [cursor=pointer]
+              - group [ref=f1e447]:
+                - generic "🛠️ Express Server Scaffold — Modular REST API scaffold" [ref=f1e448] [cursor=pointer]
+              - group [ref=f1e449]:
+                - generic "📧 Mail App — Webmail management interface" [ref=f1e450] [cursor=pointer]
+              - group [ref=f1e451]:
+                - generic "👤 My Portfolio — Personal portfolio web app" [ref=f1e452] [cursor=pointer]
+              - group [ref=f1e453]:
+                - generic "🌐 yogeshfrontend — Custom frontend portfolio" [ref=f1e454] [cursor=pointer]
+              - generic [ref=f1e455]:
+                - heading "🔒 D. Security, Tooling & Scripting (3 Projects)" [level=3] [ref=f1e456]
+                - 'link "Permalink: 🔒 D. Security, Tooling & Scripting (3 Projects)" [ref=f1e457] [cursor=pointer]':
+                  - /url: "#-d-security-tooling--scripting-3-projects"
+              - group [ref=f1e460]:
+                - generic "🛡️ SocialPhish — Educational cybersecurity framework" [ref=f1e461] [cursor=pointer]
+              - group [ref=f1e462]:
+                - generic "🤖 AI Tools Directory — Curated AI software directory" [ref=f1e463] [cursor=pointer]
+              - group [ref=f1e464]:
+                - generic "📈 Nepali Stock Market & Basic to Advance JS — Financial tools & JS reference" [ref=f1e465] [cursor=pointer]
+              - paragraph [ref=f1e466]:
+                - link [ref=f1e468] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/assets/divider.gif
+              - generic [ref=f1e470]:
+                - generic [ref=f1e471]:
+                  - heading "🤝 Let's Connect" [level=2] [ref=f1e472]
+                  - 'link "Permalink: 🤝 Let''s Connect" [ref=f1e473] [cursor=pointer]':
+                    - /url: "#-lets-connect"
+                - table [ref=f1e477]:
+                  - rowgroup [ref=f1e478]:
+                    - row [ref=f1e479]:
+                      - cell [ref=f1e480]:
+                        - link "Email" [ref=f1e481] [cursor=pointer]:
+                          - /url: mailto:yogsthapa@gmail.com
+                      - cell [ref=f1e483]:
+                        - link "LinkedIn" [ref=f1e484] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/yogesh-thapa
+                      - cell [ref=f1e486]:
+                        - link "GitHub" [ref=f1e487] [cursor=pointer]:
+                          - /url: https://github.com/yogeshthapa-7
+                      - cell [ref=f1e489]:
+                        - link "Portfolio" [ref=f1e490] [cursor=pointer]:
+                          - /url: https://github.com/yogeshthapa-7/my-portfolio
+                - generic [ref=f1e492]:
+                  - heading "🎯 Open to Opportunities" [level=3] [ref=f1e493]
+                  - 'link "Permalink: 🎯 Open to Opportunities" [ref=f1e494] [cursor=pointer]':
+                    - /url: "#-open-to-opportunities"
+                - paragraph [ref=f1e497]:
+                  - text: I'm currently looking for
+                  - strong [ref=f1e498]: full-time opportunities
+                  - text: ","
+                  - strong [ref=f1e499]: freelance projects
+                  - text: ", and"
+                  - strong [ref=f1e500]: collaborations
+                  - text: "in:"
+                - list [ref=f1e501]:
+                  - listitem [ref=f1e502]: 🌐 Frontend Development
+                  - listitem [ref=f1e503]: 🤖 AI & Automation Solutions
+                  - listitem [ref=f1e504]: 🚀 Scalable Web Architecture
+                - paragraph [ref=f1e505]: Feel free to reach out if you'd like to build something impactful together!
+              - paragraph [ref=f1e506]:
+                - link [ref=f1e508] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/assets/divider.gif
+              - generic [ref=f1e510]:
+                - generic [ref=f1e511]:
+                  - heading "💭 Developer Quote" [level=3] [ref=f1e512]
+                  - 'link "Permalink: 💭 Developer Quote" [ref=f1e513] [cursor=pointer]':
+                    - /url: "#-developer-quote"
+                - paragraph [ref=f1e516]:
+                  - link [ref=f1e517] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/20172a0b8c2794262cc8084eb0bd2d4a0e9426676951741cd9735204666eeea0/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874
+                    - img "Quote" [ref=f1e518]
+              - paragraph [ref=f1e519]:
+                - link [ref=f1e521] [cursor=pointer]:
+                  - /url: /yogeshthapa-7/yogeshthapa-7/blob/main/assets/divider.gif
+              - generic [ref=f1e523]:
+                - paragraph [ref=f1e524]:
+                  - link [ref=f1e525] [cursor=pointer]:
+                    - /url: https://camo.githubusercontent.com/187af23ddd142230d6ff09de4bddb69ac462aa319aae03d2e1096207c9f73863/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f6765736874686170612d3726636f6c6f723d306639643538267374796c653d666f722d7468652d6261646765266c6162656c3d50524f46494c452b5649455753
+                    - img "Profile Views" [ref=f1e526]
+                - generic [ref=f1e527]:
+                  - heading [level=3] [ref=f1e528]:
+                    - text: ⭐ From
+                    - link "yogeshthapa-7" [ref=f1e529] [cursor=pointer]:
+                      - /url: https://github.com/yogeshthapa-7
+                  - 'link "Permalink: ⭐ From yogeshthapa-7" [ref=f1e530] [cursor=pointer]':
+                    - /url: "#-from-yogeshthapa-7"
+                - paragraph [ref=f1e533]: Open to collaboration, contract work, and full-time opportunities!
+              - paragraph [ref=f1e534]:
+                - link [ref=f1e535] [cursor=pointer]:
+                  - /url: https://camo.githubusercontent.com/2436d81233f5792fd0f264fd57041b0e01e7d27b18bdbb0f61303e4af59e6c9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f746572
+      - generic [ref=f1e539]:
+        - generic [ref=f1e540]:
+          - heading "About" [level=2] [ref=f1e541]
+          - paragraph [ref=f1e542]: Full-Stack JavaScript Developer with expertise in Next.js, React, and the MERN stack. I craft scalable, performant web applications using TypeScript, Tailwind CSS, shadcn/UI, and Redux. Experienced in building e-commerce platforms, interactive mapping applications, and modern portfolio sites with seamless user experiences.
+          - heading "Resources" [level=3] [ref=f1e543]
+          - link "Readme" [ref=f1e545] [cursor=pointer]:
+            - /url: "#readme-ov-file"
+          - link "Activity" [ref=f1e549] [cursor=pointer]:
+            - /url: /yogeshthapa-7/yogeshthapa-7/activity
+          - heading "Stars" [level=3] [ref=f1e552]
+          - generic [ref=f1e554]:
+            - strong [ref=f1e557]: "0"
+            - text: stars
+          - heading "Watchers" [level=3] [ref=f1e558]
+          - generic [ref=f1e560]:
+            - strong [ref=f1e563]: "0"
+            - text: watching
+          - heading "Forks" [level=3] [ref=f1e564]
+          - link [ref=f1e566] [cursor=pointer]:
+            - /url: /yogeshthapa-7/yogeshthapa-7/forks
+            - strong [ref=f1e570]: "0"
+            - text: forks
+          - link "Report repository" [ref=f1e572] [cursor=pointer]:
+            - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fyogeshthapa-7%2Fyogeshthapa-7&report=yogeshthapa-7+%28user%29
+        - heading "Releases" [level=2] [ref=f1e574]
+        - heading "Packages" [level=2] [ref=f1e578]
+        - heading "Contributors" [level=2] [ref=f1e581]
+  - contentinfo [ref=f1e584]:
+    - heading "Footer" [level=2] [ref=f1e585]
+    - generic [ref=f1e586]:
+      - generic [ref=f1e587]:
+        - link "GitHub Homepage" [ref=f1e588] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f1e591]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f1e592]:
+        - heading "Footer navigation" [level=3] [ref=f1e593]
+        - list "Footer navigation" [ref=f1e594]:
+          - listitem [ref=f1e595]:
+            - link "Terms" [ref=f1e596] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f1e597]:
+            - link "Privacy" [ref=f1e598] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f1e599]:
+            - link "Security" [ref=f1e600] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f1e601]:
+            - link "Status" [ref=f1e602] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f1e603]:
+            - link "Community" [ref=f1e604] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f1e605]:
+            - link "Docs" [ref=f1e606] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f1e607]:
+            - link "Contact" [ref=f1e608] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f1e609]:
+            - button "Manage cookies" [ref=f1e611] [cursor=pointer]
+          - listitem [ref=f1e612]:
+            - button "Do not share my personal information" [ref=f1e614] [cursor=pointer]

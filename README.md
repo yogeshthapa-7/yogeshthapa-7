@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yogesh%20Thapa&fontSize=42&fontColor=fff&fontAlignY=32&desc=Full-Stack%20%26%20Frontend%20Engineer%20%7C%20AI%20%26%20Automation%20Enthusiast%20%7C%20.NET%20Developer&descSize=14&descAlignY=51" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 
 </div>
 
@@ -11,16 +11,16 @@
 ### 🚀 Frontend Engineer | Building Scalable Web Apps & AI Vision Tools
 
 <a href="mailto:yogsthapa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-yogsthapa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="assets/badge-email.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yogesh-thapa">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="assets/badge-linkedin.svg" />
 </a>
 <a href="https://github.com/yogeshthapa-7">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="assets/badge-github.svg" />
 </a>
 <a href="https://github.com/yogeshthapa-7">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="assets/badge-portfolio.svg" />
 </a>
 
 </div>
@@ -60,85 +60,85 @@
 ### 🎨 Frontend & Frameworks
 
 <a href="https://react.dev">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="assets/badge-react.svg" />
 </a>
 <a href="https://nextjs.org">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="assets/badge-nextjs.svg" />
 </a>
 <a href="https://vitejs.dev">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="assets/badge-vite.svg" />
 </a>
 <a href="https://www.typescriptlang.org">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="assets/badge-typescript.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="assets/badge-javascript.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="assets/badge-html5.svg" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="assets/badge-css3.svg" />
 </a>
 <a href="https://tailwindcss.com">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="assets/badge-tailwind.svg" />
 </a>
 <a href="https://redux-toolkit.js.org">
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="assets/badge-redux.svg" />
 </a>
 <a href="https://lucide.dev">
-  <img src="https://img.shields.io/badge/Lucide_Icons-000000?style=for-the-badge&logo=lucide&logoColor=white" />
+  <img src="assets/badge-lucide.svg" />
 </a>
 
 ### ⚙️ Backend & Databases
 
 <a href="https://nodejs.org">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="assets/badge-nodejs.svg" />
 </a>
 <a href="https://expressjs.com">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="assets/badge-express.svg" />
 </a>
 <a href="https://www.mongodb.com">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="assets/badge-mongodb.svg" />
 </a>
 <a href="https://mongoosejs.com">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="assets/badge-mongoose.svg" />
 </a>
 <a href="https://restfulapi.net">
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="assets/badge-rest-api.svg" />
 </a>
 
 ### 🤖 AI & Automation
 
 <a href="https://www.python.org">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="assets/badge-python.svg" />
 </a>
 <a href="https://opencv.org">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="assets/badge-opencv.svg" />
 </a>
 <a href="https://pypi.org/project/SpeechRecognition/">
-  <img src="https://img.shields.io/badge/SpeechRecognition-FF6C37?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="assets/badge-speech-recognition.svg" />
 </a>
 <a href="https://pypi.org/project/pyttsx3/">
-  <img src="https://img.shields.io/badge/Pyttsx3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="assets/badge-pyttsx3.svg" />
 </a>
 <a href="https://github.com/pedroslopez/whatsapp-web.js">
-  <img src="https://img.shields.io/badge/WhatsApp_Bot_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="assets/badge-whatsapp-bot.svg" />
 </a>
 
 ### 🛠️ Tools & Utilities
 
 <a href="https://git-scm.com">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="assets/badge-git.svg" />
 </a>
 <a href="https://github.com">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="assets/badge-github-logo.svg" />
 </a>
 <a href="https://www.postman.com">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="assets/badge-postman.svg" />
 </a>
 <a href="https://www.npmjs.com">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="assets/badge-npm.svg" />
 </a>
 
 </div>
@@ -162,7 +162,7 @@
 
 **Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/aurora-events-suite)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/aurora-events-suite)
 
 </details>
 
@@ -172,7 +172,7 @@
 
 **Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/booking_page)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/booking_page)
 
 </details>
 
@@ -182,7 +182,7 @@
 
 **Tech:** `Node.js` • `Express` • `MongoDB` • `Mongoose` • `Lucide Icons`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/crypto-tracker)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/crypto-tracker)
 
 </details>
 
@@ -192,7 +192,7 @@
 
 **Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/digital-profile-landing-ui)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/digital-profile-landing-ui)
 
 </details>
 
@@ -202,7 +202,7 @@
 
 **Tech:** `React` • `Vite` • `TypeScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/nea_tms_ui)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/nea_tms_ui)
 
 </details>
 
@@ -212,7 +212,7 @@
 
 **Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/thakre-mis-ui)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/thakre-mis-ui)
 
 </details>
 
@@ -222,7 +222,7 @@
 
 **Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS` • `Lucide Icons` • `AntDesign` • `RestAPI`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/promanage)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/promanage)
 
 </details>
 
@@ -232,7 +232,7 @@
 
 **Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/portfolios-generator)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/portfolios-generator)
 
 </details>
 
@@ -242,7 +242,7 @@
 
 **Tech:** `React` • `Next.js` • `Redux Toolkit` • `TypeScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/redux-mini-projects)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/redux-mini-projects)
 
 </details>
 
@@ -252,7 +252,7 @@
 
 **Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/simpleChat)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/simpleChat)
 
 </details>
 
@@ -262,7 +262,7 @@
 
 **Tech:** `React` • `Vite` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/midnight-canvas)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/midnight-canvas)
 
 </details>
 
@@ -272,7 +272,7 @@
 
 **Tech:** `React` • `Next.js` • `Vite` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/upcode)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/upcode)
 
 </details>
 
@@ -282,7 +282,7 @@
 
 **Tech:** `React` • `Vite` • `TypeScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/Library_Management_System)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/Library_Management_System)
 
 </details>
 
@@ -292,7 +292,7 @@
 
 **Tech:** `Node.js` • `Tailwind CSS` • `Lucide Icons`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/weather)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/weather)
 
 </details>
 
@@ -302,7 +302,7 @@
 
 **Tech:** `Next.js` • `TypeScript` • `Shadcn/UI` • `Tailwind CSS` • `Formik` • `Yup`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ecommerce)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/ecommerce)
 
 </details>
 
@@ -312,7 +312,7 @@
 
 **Tech:** `Next.js` • `React` • `Tailwind CSS` • `Framer Motion` • `TypeScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ai-tools-directory)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/ai-tools-directory)
 
 </details>
 
@@ -322,7 +322,7 @@
 
 **Tech:** `Next.js` • `React` • `Tailwind CSS` • `TypeScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mini-projects)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/mini-projects)
 
 </details>
 
@@ -332,7 +332,7 @@
 
 **Tech:** `Next.js` • `Tailwind CSS` • `Framer Motion`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/my-portfolio)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/my-portfolio)
 
 </details>
 
@@ -342,7 +342,7 @@
 
 **Tech:** `JavaScript` • `HTML` • `CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mail-app)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/mail-app)
 
 </details>
 
@@ -354,7 +354,7 @@
 
 **Tech:** `Python` • `OpenCV` • `HTML` • `CSS` • `JavaScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/FaceDetection)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/FaceDetection)
 
 </details>
 
@@ -364,7 +364,7 @@
 
 **Tech:** `Python` • `SpeechRecognition` • `Pyttsx3` • `TTS Engines`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/jarvis-ai-assistant)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/jarvis-ai-assistant)
 
 </details>
 
@@ -374,7 +374,7 @@
 
 **Tech:** `React` • `Next.js` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/voiceAssistant)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/voiceAssistant)
 
 </details>
 
@@ -384,7 +384,7 @@
 
 **Tech:** `Node.js` • `WhatsApp Bot API`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/whatsapp-ai-bot)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/whatsapp-ai-bot)
 
 </details>
 
@@ -396,7 +396,7 @@
 
 **Tech:** `Node.js` • `JavaScript` • `Express`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ecommerce)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/ecommerce)
 
 </details>
 
@@ -406,7 +406,7 @@
 
 **Tech:** `Node.js` • `Express` • `JavaScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/express)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/express)
 
 </details>
 
@@ -416,7 +416,7 @@
 
 **Tech:** `JavaScript` • `HTML` • `CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/mail-app)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/mail-app)
 
 </details>
 
@@ -426,7 +426,7 @@
 
 **Tech:** `Next.js` • `React` • `TypeScript` • `Tailwind CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/my-portfolio)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/my-portfolio)
 
 </details>
 
@@ -436,7 +436,7 @@
 
 **Tech:** `HTML` • `CSS` • `JavaScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/yogeshfrontend)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/yogeshfrontend)
 
 </details>
 
@@ -448,7 +448,7 @@
 
 **Tech:** `PHP` • `Bash/Shell` • `HTML` • `CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/socialphish)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/socialphish)
 
 </details>
 
@@ -458,7 +458,7 @@
 
 **Tech:** `JavaScript` • `HTML` • `CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/ai-tools-directory)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/ai-tools-directory)
 
 </details>
 
@@ -468,7 +468,7 @@
 
 **Tech:** `JavaScript` • `HTML` • `CSS`
 
-[![Repo](https://img.shields.io/badge/View_Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshthapa-7/Nepali-Stock_Market)
+[![Repo](assets/badge-view-repo.svg)](https://github.com/yogeshthapa-7/Nepali-Stock_Market)
 
 </details>
 
@@ -485,25 +485,25 @@
 <tr>
 <td align="center" width="25%">
 <a href="mailto:yogsthapa@gmail.com">
-<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60"/>
+<img src="assets/icon-gmail.png" width="60"/>
 <br><b>Email</b>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/yogesh-thapa">
-<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60"/>
+<img src="assets/icon-linkedin.png" width="60"/>
 <br><b>LinkedIn</b>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/yogeshthapa-7">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="60"/>
+<img src="assets/icon-github.png" width="60"/>
 <br><b>GitHub</b>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://github.com/yogeshthapa-7/my-portfolio">
-<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60"/>
+<img src="assets/icon-domain.png" width="60"/>
 <br><b>Portfolio</b>
 </a>
 </td>
@@ -532,7 +532,7 @@ Feel free to reach out if you'd like to build something impactful together!
 
 ### 💭 Developer Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](assets/quote.svg)
 
 </div>
 
@@ -542,7 +542,7 @@ Feel free to reach out if you'd like to build something impactful together!
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yogeshthapa-7&color=0f9d58&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](assets/profile-views.svg)
 
 ### ⭐ From [yogeshthapa-7](https://github.com/yogeshthapa-7)
 
@@ -551,4 +551,4 @@ Feel free to reach out if you'd like to build something impactful together!
 </div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
